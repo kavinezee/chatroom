@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405115581027",
+    "project_id": "flash-chat-2ae63",
+    "storage_bucket": "flash-chat-2ae63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405115581027:android:cee6399d7863249a623e56",
+        "android_client_info": {
+          "package_name": "com.kavin.flash_message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbE5n5yd97uqA8d9lPAhPMvkWsUb8His"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
